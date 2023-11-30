@@ -1,0 +1,3 @@
+0 Motor
+1 Sepeda
+2 Scooter
